@@ -118,14 +118,3 @@ External Resources
 	Google JSON
 	MySQL Connector
 	Spring Framework
-Feedback:
-
-We like your idea and would use this in real life :)
-There are two class “islands” that need to be connected
-Make a schedule class that has classes
-Then make student have a schedule
-“Classes” would be a super class that should be renamed “Class”
-Different subjects would extend “Class” and override methods in “Class”
-Where does data for student classes come from?
-Are you using a database?
-Explain what your classes represent (what is MainPage) and elaborate on your credits list
